@@ -1,0 +1,2 @@
+# othello
+W-MIND othello
