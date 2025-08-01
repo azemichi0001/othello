@@ -1,2 +1,0 @@
-# othello
-W-MIND othello
